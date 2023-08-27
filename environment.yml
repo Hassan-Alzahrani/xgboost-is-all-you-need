@@ -16,6 +16,7 @@ dependencies:
   - jupyterlab
   - jupyterlab-git
   - jupyterlab-nvdashboard
+  - nodejs
   - jupyterlab-lsp
   - matplotlib
   - nbgitpuller
